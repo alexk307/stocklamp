@@ -1,0 +1,8 @@
+{
+  "name": "stocklamp",
+  "version": "1.0.0",
+  "description": "Stock quote fetching for stocklamp project",
+  "dependencies": {
+    "request": "^2.65.0"
+  }
+}
